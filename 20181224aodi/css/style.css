@@ -7,18 +7,21 @@ img{display: block; width: 100%}
 
 
 /*背景部分*/
+.introduce{background: url("../images/introduce.jpg") center top no-repeat; width: 100%; height: 299px}
+.content{background: url("../images/video_bg.jpg") center top no-repeat; width: 100%; height: 422px}
+.con_box{width: 1200px; height: 422px; position: absolute; left: 50%; top: 0;margin-left: -600px}
+.choice{width: 70px; height: 370px; position: absolute; left: 0; top: 0}
 
-
-.video_choice{position: absolute; width: 3.64%; left: 18.75%; top: 0; cursor: pointer}
+.video_choice{position: absolute; width: 70px; left: 0; top: 0; cursor: pointer}
 .video_choice .choice{position: absolute; width: 100%; left: 0; top: 0; display: none}
 .video_choice .choice_1{display: block}
-.video{position: absolute; width: 34.27%; left: 22.39%; top: 0; cursor: pointer}
-.map_choice{position: absolute; width: 3.64%; left: 18.75%; top: 40.04%; cursor: pointer}
+.video{position: absolute; width: 658px; left: 70px; top: 0; cursor: pointer}
+.map_choice{position: absolute; width: 70px; left: 0; top: 169px; cursor: pointer}
 .map_choice .choice{position: absolute; width: 100%; left: 0; top: 0; display: none}
 .map_choice .choice_2{display: block}
-.map{position: absolute; width: 34.27%; left: 22.39%; top: 0; display: none}
+.map{position: absolute; width: 658px; left: 70px; top: 0; display: none}
 
-.pics{position: absolute; width: 22.7%; left: 58.54%; top: 0}
+.pics{position: absolute; width: 436px ; left: 765px; top: 0}
 .pics .slick-dots{position: absolute; width: 100%; left: 0; bottom: 6%; height: 10px; text-align: center; z-index: 10}
 .pics .slick-dots li {width:10px; height:10px; margin: 0 10px;
     background: #fff; border-radius: 50%;
@@ -30,7 +33,10 @@ img{display: block; width: 100%}
 
 
 
-
+.station1{background: url("../images/station1.jpg") center top no-repeat; width: 100%; height: 686px}
+.station2{background: url("../images/station2.jpg") center top no-repeat; width: 100%; height: 683px}
+.station3{background: url("../images/station3.jpg") center top no-repeat; width: 100%; height: 631px}
+.footer{background: url("../images/footer.jpg") center top no-repeat; width: 100%; height: 201px}
 
 
 
