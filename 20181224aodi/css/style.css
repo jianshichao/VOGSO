@@ -1,0 +1,36 @@
+*{outline:none;margin:0;padding: 0;border: none;list-style-type: none;text-decoration: none;
+    list-style: none;font-family: "微软雅黑";-webkit-tap-highlight-color:none;}
+body{overflow-x: hidden; position: relative}
+img{display: block; width: 100%}
+.box{margin: 0 auto; position: relative}
+.page{width: 100%; position: relative}
+
+
+/*背景部分*/
+
+
+.video_choice{position: absolute; width: 3.64%; left: 18.75%; top: 0; cursor: pointer}
+.video_choice .choice{position: absolute; width: 100%; left: 0; top: 0; display: none}
+.video_choice .choice_1{display: block}
+.video{position: absolute; width: 34.27%; left: 22.39%; top: 0; cursor: pointer}
+.map_choice{position: absolute; width: 3.64%; left: 18.75%; top: 40.04%; cursor: pointer}
+.map_choice .choice{position: absolute; width: 100%; left: 0; top: 0; display: none}
+.map_choice .choice_2{display: block}
+.map{position: absolute; width: 34.27%; left: 22.39%; top: 0; display: none}
+
+.pics{position: absolute; width: 22.7%; left: 58.54%; top: 0}
+.pics .slick-dots{position: absolute; width: 100%; left: 0; bottom: 6%; height: 10px; text-align: center; z-index: 10}
+.pics .slick-dots li {width:10px; height:10px; margin: 0 10px;
+    background: #fff; border-radius: 50%;
+    background-size: 100%;
+    cursor:pointer; z-index: 2;}
+.pics .slick-dots li.slick-active {background: red;}
+.slick-dots li button {filter: progid:DXImageTransform.Microsoft.Alpha(opacity=0); opacity:0; text-indent: 9999px}
+
+
+
+
+
+
+
+
