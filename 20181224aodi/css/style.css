@@ -34,8 +34,42 @@ img{display: block; width: 100%}
 
 
 .station1{background: url("../images/station1.jpg") center top no-repeat; width: 100%; height: 686px}
+.station1_box{width: 1200px; height: 686px; position: absolute; left: 50%; top: 0; margin-left: -600px}
+.station1 .title{position: absolute; width: 196px; left: 79px; top: 0}
+.station1 .pic1{position: absolute; width: 288px; left: 32px; top: 438px}
+.station1 .pic2{position: absolute; width: 272px; left: 350px; top: 56px}
+.station1 .pic3{position: absolute; width: 545px; left: 623px; top: 56px}
+.station1 .pic4{position: absolute; width: 272px; left: 350px; top: 236px}
+.station1 .pic5{position: absolute; width: 272px; left: 350px; top: 420px}
+.station1 .pic6{position: absolute; width: 545px; left: 623px; top: 236px}
+.station1 .text{position: absolute; width: 141px; left: 126px; top: 108px}
+.station1 .url{position: absolute; width: 16px; left: 84px; top: 108px}
+
+
+
+
 .station2{background: url("../images/station2.jpg") center top no-repeat; width: 100%; height: 683px}
+.station2_box{width: 1200px; height: 683px; position: absolute; left: 50%; top: 0; margin-left: -600px}
+.station2 .title{position: absolute; width: 160px; left: 973px; top: 0}
+.station2 .pic1{position: absolute; width: 272px; left: 32px; top: 54px}
+.station2 .pic2{position: absolute; width: 272px; left: 305px; top: 54px}
+.station2 .pic3{position: absolute; width: 272px; left: 578px; top: 54px}
+.station2 .pic4{position: absolute; width: 288px; left: 870px; top: 436px}
+.station2 .text{position: absolute; width: 102px; left: 995px; top: 113px}
+
 .station3{background: url("../images/station3.jpg") center top no-repeat; width: 100%; height: 631px}
+.station3_box{width: 1200px; height: 686px; position: absolute; left: 50%; top: 0; margin-left: -600px}
+.station3 .title{position: absolute; width: 160px; left: 109px; top: 0}
+.station3 .pic1{position: absolute; width: 545px; left: 350px; top: 55px}
+.station3 .pic2{position: absolute; width: 272px; left: 896px; top: 55px}
+.station3 .pic3{position: absolute; width: 272px; left: 896px; top: 236px}
+.station3 .pic4{position: absolute; width: 272px; left: 350px; top: 420px}
+.station3 .pic5{position: absolute; width: 272px; left: 623px; top: 420px}
+.station3 .pic6{position: absolute; width: 272px; left: 897px; top: 420px}
+.station3 .pic7{position: absolute; width: 288px; left: 33px; top: 437px}
+.station3 .text{position: absolute; width: 141px; left: 118px; top: 112px}
+
+
 .footer{background: url("../images/footer.jpg") center top no-repeat; width: 100%; height: 201px}
 
 
